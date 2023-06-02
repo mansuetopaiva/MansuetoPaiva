@@ -1,6 +1,8 @@
 ### Hi there 👋
-Discord: <a href="https://discord.com/channels/@MansuetoPaiva#9062" target="_blanck">MansuetoPaiva#9062</a>
-  Linkedin:<a href="https://www.linkedin.com/in/mansueto-paiva-692463264/" target="_blanck">Mansueto Paiva</a>
+<ul>
+<li>Discord: <a href="https://discord.com/channels/@MansuetoPaiva#9062" target="_blanck">MansuetoPaiva#9062</a></li>
+<li>Linkedin:<a href="https://www.linkedin.com/in/mansueto-paiva-692463264/" target="_blanck">Mansueto Paiva</a></li>
+  </ul>
 
 <!--
 **MansuetoPaiva/MansuetoPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
