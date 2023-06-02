@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<li>
+  <ul>Discord: <a href="https://discord.com/channels/@MansuetoPaiva#9062" target="_blanck">MansuetoPaiva#9062</a>
+</li>
 <!--
 **MansuetoPaiva/MansuetoPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
