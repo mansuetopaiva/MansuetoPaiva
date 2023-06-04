@@ -1,7 +1,11 @@
 ### Hi there 👋
 <ul>
-<li>Discord: <a href="https://discord.com/channels/@MansuetoPaiva#9062" target="_blanck">MansuetoPaiva#9062</a></li>
-<li>Linkedin:<a href="https://www.linkedin.com/in/mansueto-paiva-692463264/" target="_blanck">Mansueto Paiva</a></li>
+<li>Discord: MansuetoPaiva#9062</a></li>
+<ul>
+    <li><img src="icone-instagram.png" alt="icone instagram"><a href="https://www.instagram.com/susupaiva_/" target="_blank" rel="external">/susupaiva_</a> Me segue lá no instagram</li>
+    <li><img src="icone-facebook.png" alt="icone facebooke"><a href="https://www.facebook.com/Mansueto.paiva1" target="_blank" rel="external">/mansueto.paiva1</a> Me acompanha lá no Facebook</li>
+    <li><img src="icone-linkedin.png" alt="icone linkedin"><a href="https://www.linkedin.com/in/mansueto-paiva-692463264/"
+        target="_blank" rel="external">/mansuetopaiva</a> Me adiciona lá no LinkedIn</li>
   </ul>
 
 <!--
