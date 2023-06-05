@@ -1,7 +1,7 @@
 ### Hi there 👋
 <ul>
     <li>Discord: MansuetoPaiva#9062</li>
-    <li><img src="icone-instagram.png" alt="icone instagram"><a href="https://www.instagram.com/susupaiva_/" target="_blank" rel="external">Susupaiva_</a> Me segue lá no instagram</li>
+    <li><a href="https://www.instagram.com/susupaiva_/" target="_blank" rel="external">Susupaiva_</a> Me segue lá no instagram</li>
     <li><a href="https://www.facebook.com/Mansueto.paiva1" target="_blank" rel="external">Mansueto.paiva1</a> Me acompanha lá no Facebook</li>
     <li><a href="https://www.linkedin.com/in/mansueto-paiva-692463264/ target="_blank" rel="external">Mansuetopaiva</a> Me adiciona lá no LinkedIn</li>
   </ul>
