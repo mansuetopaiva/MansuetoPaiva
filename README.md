@@ -1,23 +1,20 @@
-### Hi there 👋
+# __Hello everyone__ <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30px">, __I'm Mansueto Paiva__
+- #### <a href=https://digitalcollege.com.br target="_blank"> <img src=https://digitalcollege.com.br/wp-content/uploads/2022/05/logo-digital.png width="40px"></a> __Beginner full stack student at "Digital college".__ 
 
-<ul>
-    <li>Discord: MansuetoPaiva#9062</li>
-    <li><img src="https://github.com/MansuetoPaiva/MansuetoPaiva/assets/133207241/5e9d33f1-ecfe-44d3-8220-73c832b19254" alt="icone instagram"> <a href="https://www.instagram.com/susupaiva_/" target="_blank">Mansuetopaiva_</a> Me segue lá no Instagram</li>
-    <li><img src="https://github.com/MansuetoPaiva/MansuetoPaiva/assets/133207241/c3e6c3f0-8cc3-418b-816f-3b17a2592b31" alt="icone facebooke"> <a href="https://www.facebook.com/Mansueto.paiva1" target="_blank">Mansueto.paiva1</a> Me acompanha lá no Facebook</li>
-    <li><img src="https://github.com/MansuetoPaiva/MansuetoPaiva/assets/133207241/b1db99c3-a5a4-4e17-8cfb-259d9676366e" alt="icone linkedin" > <a href="https://www.linkedin.com/in/mansueto-paiva-692463264/ target="_blank">Mansuetopaiva</a> Me adiciona lá no LinkedIn</li>
-</ul>
+- #### <img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="20px"> __Acquiring as much knowledge as possible every day, to become a future full stack developer.__
 
-<!--
-**MansuetoPaiva/MansuetoPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 __Technologies I will study and am studying__
+<div style="display: inline_block"><br/>
 
-Here are some ideas to get you started:
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="Express" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## __My social network__ (working)
+
+
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0" width="20px"> <a href="https://www.freecodecamp.org/MansuetoPaiva" target="_blank">__FreeCodeCamp:__</a>
+
+<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="20px"> <a href="https://www.linkedin.com/in/mansueto-paiva-692463264/" target="_blank">__Linkedin:__</a>
