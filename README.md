@@ -12,9 +12,17 @@
 <img align="center" alt="Express" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 
-## __My social network__ (working)
+## __My social network__ 
+<br>  
+<div>
+    <a href="https://www.instagram.com/mansuetopaiva_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt ="instagram" target="_blank"></a>
+  <a href="mailto:masuetoonofre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="email"></a>
+ </div><br>
 
+## __Check out my learning__ 
 
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0" width="20px"> <a href="https://www.freecodecamp.org/MansuetoPaiva" target="_blank">__FreeCodeCamp__</a>
-
-<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="20px"> <a href="https://www.linkedin.com/in/mansueto-paiva-692463264/" target="_blank">__Linkedin__</a>
+<div>
+<a href="https://www.freecodecamp.org/MansuetoPaiva" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank" alt="freecodecamp">
+</a>
+ <a href="https://www.duolingo.com/profile/mansuetopaiva" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank" alt="duolingo"> </a>
+</div><br>  
