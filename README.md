@@ -15,6 +15,6 @@
 ## __My social network__ (working)
 
 
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0" width="20px"> <a href="https://www.freecodecamp.org/MansuetoPaiva" target="_blank">__FreeCodeCamp:__</a>
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0" width="20px"> <a href="https://www.freecodecamp.org/MansuetoPaiva" target="_blank">__FreeCodeCamp__</a>
 
-<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="20px"> <a href="https://www.linkedin.com/in/mansueto-paiva-692463264/" target="_blank">__Linkedin:__</a>
+<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="20px"> <a href="https://www.linkedin.com/in/mansueto-paiva-692463264/" target="_blank">__Linkedin__</a>
