@@ -3,6 +3,8 @@
 
 - #### <img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="20px"> __Acquiring as much knowledge as possible every day, to become a future full stack developer.__
 
+![img](https://www.google.com/imgres?q=avatar%20github%20icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2111%2F2111432.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fgithub_2111432&docid=pfS5JnhQhSfgpM&tbnid=BJGnLseZanQPUM&vet=12ahUKEwjK1KLGk8eGAxVHH7kGHc1LHWEQM3oECE4QAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjK1KLGk8eGAxVHH7kGHc1LHWEQM3oECE4QAA)
+
 ## 🛠 __Technologies I will study and am studying__
 <div style="display: inline_block"><br/>
 
